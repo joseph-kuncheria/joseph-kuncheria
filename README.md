@@ -5,7 +5,7 @@
 - <b>Profile</b><br>
 Self-driven and hands-on experience in cloud security through independently executed projects on Microsoft Azure and Amazon Web Services (AWS). Demonstrated proficiency in securing cloud infrastructure, implementing identity and access management (IAM), configuring network security groups, and applying best practices for data protection and compliance. Projects include setting up secure VPC architectures, configuring Azure Security Center, and automating security logs analysis using native tools and scripts.
 
-<h2>🖥️ Cybersecurity Projects:</h2>
+<h2>🖥️ Cloudsecurity Projects:</h2>
 
 - <b>Microsoft Azure &nbsp;</b><img src="image/Azure.png" alt="logo" style="height: 25px; width: 25px" />
   - [Configuring On-premises Active Directory and Creating Users with PowerShell Script](https://github.com/kphillip1/configure-ad)
