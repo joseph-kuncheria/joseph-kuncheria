@@ -18,15 +18,13 @@ Self-driven and hands-on experience in cloud security through independently exec
 
  
 <h2>📜Certifications:</h2>
-- <a href="https://github.com/kphillip1/kphillip1/assets/165929885/1ce3b133-6156-4165-8bb2-027a8bfb0577">Comptia Security+</a>
+- <a href="https://www.credly.com/badges/1fff8429-a598-45b3-970c-7fbd15d99f85/public_url">Microsoft Certified: Azure Fundamentals</a>
 <br>
-- <a href="https://app.kajabi.com/certificates/9a50fade">Cybersecurity Analyst (LeveldCareers)</a>
+- <a href="https://www.credly.com/badges/7388ed2b-a2c3-4b4f-9194-54b076656a62/public_url">AWS Certified Cloud Practitioner</a>
 <br>
-- <a href="https://github.com/user-attachments/files/17044714/CompTIA.Server%2B.certificate.pdf">Comptia Server+</a>
+- <a href="https://www.credly.com/badges/c2a4669f-b2b7-4b53-bd9c-0dfba77861df/public_url">Comptia Security+</a>
 <br>
-- <a href="https://github.com/user-attachments/assets/2fb3181c-9ec5-47ae-8328-5f64191194d8">Cisco CCNA</a>
-<br>
-- <a href="https://www.credly.com/badges/f5108c89-7802-4e2d-8c52-308665012e3a">ISC2 CISSP (Associate)</a>
+- <a href="https://www.credly.com/badges/d3f0000d-1716-44d9-b455-5f2cdd1aee7a/public_url">Comptia Network+</a>
 <br>
 - <a href="https://www.credly.com/badges/1d716a02-0a99-4186-88c2-60f13fffe70b">Red Hat Certified System Administrator</a>
 
