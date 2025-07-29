@@ -27,6 +27,6 @@ Self-driven and hands-on experience in cloud security through independently exec
 <br>
 
 <h2>🤳📬Connect with me:</h2> 
-- <a href="https://www.linkedin.com/in/joseph-kuncheria/">Linkedin</a>
+- <a href="https://www.linkedin.com/in/joseph-kuncheria/"><i>Linkedin</i></a>
 <br>
-- <a href="mailto:josephkuncheria7@gmail.com">Gmail</a>
+- <a href="mailto:josephkuncheria7@gmail.com"><i>Gmail</i></a>
