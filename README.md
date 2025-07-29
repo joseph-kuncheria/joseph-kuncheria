@@ -7,11 +7,11 @@ Self-driven and hands-on experience in cloud security through independently exec
 
 <h2>🖥️ Cloudsecurity Projects:</h2>
 
-- <b>Microsoft Azure &nbsp;</b><img src="image/Azure.png" alt="logo" style="height: 25px; width: 25px" />
+- <b>Microsoft Azure &nbsp;</b><img src="image/Azure.png" alt="logo" style="height: 18px; width: 18px" />
   - [Configuring On-premises Active Directory and Creating Users with PowerShell Script](https://github.com/kphillip1/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/kphillip1/azure-network-protocols)
     
-- <b>Amazon AWS &nbsp;</b><img src="image/AWS.png" alt="logo" style="height: 25px; width: 30px" />
+- <b>Amazon AWS &nbsp;</b><img src="image/AWS.png" alt="logo" style="height: 20px; width: 25px" />
   - [osTicket: Prerequisites and Installation](https://github.com/kphillip1/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/kphillip1/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/kphillip1/ticket-lifecycle)
