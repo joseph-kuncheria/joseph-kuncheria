@@ -26,10 +26,7 @@ Self-driven and hands-on experience in cloud security through independently exec
 - <a href="https://www.credly.com/badges/d3f0000d-1716-44d9-b455-5f2cdd1aee7a/public_url">Comptia Network+</a>
 <br>
 
-<h2>🤳Connect with me:</h2>
-
-
-[<img align="left" alt="Phillip | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-[linkedin]: https://www.linkedin.com/in/phillipkitanski/
+<h2>🤳📬Connect with me:</h2> 
+- <a href="https://www.linkedin.com/in/joseph-kuncheria/">Linkedin</a>
+<br>
+- <a href="mailto:josephkuncheria7@gmail.com">Gmail</a>
