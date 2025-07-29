@@ -8,14 +8,13 @@ Self-driven and hands-on experience in cloud security through independently exec
 <h2>🖥️ Cloudsecurity Projects:</h2>
 
 - <b>Microsoft Azure &nbsp;</b><img src="image/Azure.png" alt="logo" style="height: 18px; width: 18px" />
-  - [Configuring On-premises Active Directory and Creating Users with PowerShell Script](https://github.com/kphillip1/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/kphillip1/azure-network-protocols)
-    
+  - 
+  - 
+  -
 - <b>Amazon AWS &nbsp;</b><img src="image/AWS.png" alt="logo" style="height: 20px; width: 25px" />
-  - [osTicket: Prerequisites and Installation](https://github.com/kphillip1/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/kphillip1/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/kphillip1/ticket-lifecycle)
-
+  - 
+  - 
+  - 
  
 <h2>📜Certifications:</h2>
 - <a href="https://www.credly.com/badges/1fff8429-a598-45b3-970c-7fbd15d99f85/public_url">Microsoft Certified: Azure Fundamentals</a>
@@ -26,7 +25,6 @@ Self-driven and hands-on experience in cloud security through independently exec
 <br>
 - <a href="https://www.credly.com/badges/d3f0000d-1716-44d9-b455-5f2cdd1aee7a/public_url">Comptia Network+</a>
 <br>
-- <a href="https://www.credly.com/badges/1d716a02-0a99-4186-88c2-60f13fffe70b">Red Hat Certified System Administrator</a>
 
 <h2>🤳Connect with me:</h2>
 
