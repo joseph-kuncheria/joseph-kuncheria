@@ -7,7 +7,7 @@ Self-driven and hands-on experience in cloud security through independently exec
 
 <h2>🖥️ Cybersecurity Projects:</h2>
 
-- <b>Microsoft Azure</b>
+- <b>Microsoft Azure</b><img src="image/Azure.svg" alt="logo" />
   - [Configuring On-premises Active Directory and Creating Users with PowerShell Script](https://github.com/kphillip1/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/kphillip1/azure-network-protocols)
     
