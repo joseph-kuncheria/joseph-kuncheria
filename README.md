@@ -1,20 +1,17 @@
-<h1>Hi, I'm <a href="https://www.linkedin.com/in/phillipkitanski/">Joseph Kuncheria</a>, welcome to my Cloud Security projects☺</h1>
+<h1>Hi, I'm <a href="https://www.linkedin.com/in/joseph-kuncheria/">Joseph</a>, welcome to my Cloud Security GitHub🎉</h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Introduction:</h2>
 
-- <b>Cloud Security</b>
-  - [Building a SOC + Honeynet in Azure (Live Traffic) w/ Video Demonstration](https://github.com/kphillip1/azure-soc-honeynet)
-  - [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/kphillip1/threat-hunting-scenario-tor)
-  - [Vulnerability Management Program Implementation](https://github.com/kphillip1/vulnerability-management-program)
+- <b>Cloud Security</b><br>
+Self-driven and hands-on experience in cloud security through independently executed projects on Microsoft Azure and Amazon Web Services (AWS). Demonstrated proficiency in securing cloud infrastructure, implementing identity and access management (IAM), configuring network security groups, and applying best practices for data protection and compliance. Projects include setting up secure VPC architectures, configuring Azure Security Center, and automating security logs analysis using native tools and scripts.
 
-
-
-<h2>🖥️ Information Technology Projects:</h2>
+<h2>🖥️ Cybersecurity Projects:</h2>
 
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory and Creating Users with PowerShell Script](https://github.com/kphillip1/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/kphillip1/azure-network-protocols)
-- <b>osTicket (Help Desk Ticketing System)</b>
+    
+- <b>Amazon AWS</b>
   - [osTicket: Prerequisites and Installation](https://github.com/kphillip1/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/kphillip1/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/kphillip1/ticket-lifecycle)
