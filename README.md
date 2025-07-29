@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Introduction:</h2>
 
-- <b>Profile</b><br>
+- <b>My Profile</b><br>
 Self-driven and hands-on experience in cloud security through independently executed projects on Microsoft Azure and Amazon Web Services (AWS). Demonstrated proficiency in securing cloud infrastructure, implementing identity and access management (IAM), configuring network security groups, and applying best practices for data protection and compliance. Projects include setting up secure VPC architectures, configuring Azure Security Center, and automating security logs analysis using native tools and scripts.
 
 <h2>🖥️ Cloudsecurity Projects:</h2>
