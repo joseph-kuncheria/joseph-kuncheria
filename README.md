@@ -8,10 +8,10 @@ Self-driven and hands-on experience in cloud security through independently exec
 <h2>🖥️ Cloudsecurity Projects:</h2>
 
 - <b>Microsoft Azure &nbsp;</b><img src="image/Azure.png" alt="logo" style="height: 18px; width: 18px" />
-  - <b>Amazon AWS &nbsp;</b><img src="image/AWS.png" alt="logo" style="height: 22px; width: 32px" />
+  - 
   - 
   -
-- <b>Amazon AWS &nbsp;</b><img src="[image/AWS.png](https://github.com/joseph-kuncheria/Assignment-2/edit/master/image/AWS.png)" alt="logo" style="height: 22px; width: 32px" />
+- <b>Amazon AWS &nbsp;</b><img src="image/AWS.png" alt="logo" style="height: 25px; width: 32px" />
   - 
   - 
   - 
