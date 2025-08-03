@@ -11,7 +11,7 @@ Self-driven and hands-on experience in cloud security through independently exec
   - <b>Amazon AWS &nbsp;</b><img src="image/AWS.png" alt="logo" style="height: 22px; width: 32px" />
   - 
   -
-- <b>Amazon AWS &nbsp;</b><img src="image/AWS.png" alt="logo" style="height: 22px; width: 32px" />
+- <b>Amazon AWS &nbsp;</b><img src="[image/AWS.png](https://github.com/joseph-kuncheria/Assignment-2/edit/master/image/AWS.png)" alt="logo" style="height: 22px; width: 32px" />
   - 
   - 
   - 
