@@ -16,7 +16,7 @@ Self-driven and hands-on experience in cloud security through independently exec
   - 
   - 
  
-<h2>📜Certifications:</h2>
+<h2>📜 Certifications:</h2>
 - <a href="https://www.credly.com/badges/1fff8429-a598-45b3-970c-7fbd15d99f85/public_url">Microsoft Certified: Azure Fundamentals</a>
 <br>
 - <a href="https://www.credly.com/badges/7388ed2b-a2c3-4b4f-9194-54b076656a62/public_url">AWS Certified Cloud Practitioner</a>
@@ -26,7 +26,7 @@ Self-driven and hands-on experience in cloud security through independently exec
 - <a href="https://www.credly.com/badges/d3f0000d-1716-44d9-b455-5f2cdd1aee7a/public_url">Comptia Network+</a>
 <br>
 
-<h2>🤳📬Connect with me:</h2> 
+<h2>📬 Connect with me:</h2> 
 - <a href="https://www.linkedin.com/in/joseph-kuncheria/"><i>Linkedin</i></a>
 <br>
 - <a href="mailto:josephkuncheria7@gmail.com"><i>Gmail</i></a>
