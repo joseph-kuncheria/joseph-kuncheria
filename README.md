@@ -17,7 +17,7 @@ Self-driven and hands-on experience in cloud security through independently exec
   - 
  
 <h2>📜 Certifications:</h2>
-- <a href="https://www.credly.com/badges/1fff8429-a598-45b3-970c-7fbd15d99f85/public_url" target="_blank">Microsoft Certified: Azure Fundamentals</a>
+- <a target="_blank" href="https://www.credly.com/badges/1fff8429-a598-45b3-970c-7fbd15d99f85/public_url" >Microsoft Certified: Azure Fundamentals</a>
 <br>
 - <a href="https://www.credly.com/badges/7388ed2b-a2c3-4b4f-9194-54b076656a62/public_url">AWS Certified Cloud Practitioner</a>
 <br>
