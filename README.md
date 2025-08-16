@@ -17,18 +17,18 @@ Self-driven and hands-on experience in cloud security through independently exec
   - [Secure AWS resources using IAM user access policy](https://github.com/joseph-kuncheria/AWS-IAM-access/blob/main/README.md)
  
 <h2>📜 Certifications:</h2>
-- <a target="_blank" href="https://www.credly.com/badges/1fff8429-a598-45b3-970c-7fbd15d99f85/public_url" >Microsoft Certified: Azure Fundamentals</a>
+&emsp; &emsp;* <a target="_blank" href="https://www.credly.com/badges/1fff8429-a598-45b3-970c-7fbd15d99f85/public_url" style="text-indent: 50px">Microsoft Certified: Azure Fundamentals</a>
 <br>
-- <a href="https://www.credly.com/badges/7388ed2b-a2c3-4b4f-9194-54b076656a62/public_url">AWS Certified Cloud Practitioner</a>
+&emsp; &emsp;* <a href="https://www.credly.com/badges/7388ed2b-a2c3-4b4f-9194-54b076656a62/public_url">AWS Certified Cloud Practitioner</a>
 <br>
-- <a href="https://www.credly.com/badges/c2a4669f-b2b7-4b53-bd9c-0dfba77861df/public_url">Comptia Security+</a>
+&emsp; &emsp;* <a href="https://www.credly.com/badges/c2a4669f-b2b7-4b53-bd9c-0dfba77861df/public_url">Comptia Security+</a>
 <br>
-- <a href="https://www.credly.com/badges/d3f0000d-1716-44d9-b455-5f2cdd1aee7a/public_url">Comptia Network+</a>
+&emsp; &emsp;* <a href="https://www.credly.com/badges/d3f0000d-1716-44d9-b455-5f2cdd1aee7a/public_url">Comptia Network+</a>
 <br>
 
 <h2>📬 Connect with me:</h2> 
 
 <p><a href="https://github.com/joseph-kuncheria/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-  <a href="mailto:josephkuncheria7@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
-  <a href="https://www.linkedin.com/in/joseph-kuncheria/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="mailto:josephkuncheria7@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail--informational?style=social&logo=gmail" style="height: 28px; width: 18px   alt="Gmail"/></a> 
+ <a href="https://www.linkedin.com/in/joseph-kuncheria/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
