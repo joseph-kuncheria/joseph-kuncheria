@@ -5,13 +5,14 @@
 - <b>My Profile</b><br>
 Self-driven and hands-on experience in cloud security through independently executed projects on Microsoft Azure and Amazon Web Services (AWS). Demonstrated proficiency in securing cloud infrastructure, implementing identity and access management (IAM), configuring network security groups, and applying best practices for data protection and compliance. Projects include setting up secure VPC architectures, configuring Azure Security Center, and automating security logs analysis using native tools and scripts.
 
-<h2>🖥️ Cloud Security & Networking Projects:</h2>
+## 🖥️ Cloud Security & Networking Projects:
 
-- <b>Microsoft Azure &nbsp;</b><img src="image/Azure.png" alt="logo" style="height: 18px; width: 18px" />
+- ### Microsoft Azure <img src="image/Azure.png" alt="logo" style="height: 18px; width: 18px" />
   - 
   - 
-  -
-- <b>Amazon AWS &nbsp;</b><img src="image/AWS.png" alt="logo" style="height: 25px; width: 32px" />
+  - 
+  
+- ### Amazon AWS <img src="image/AWS.png" alt="logo" style="height: 25px; width: 32px" />
   - [Monitor AWS secrets using Security Monitoring System](https://github.com/joseph-kuncheria/AWS-Security-alarm/blob/main/README.md)
   - [Build an AWS EC2 cloud infrastructure](https://github.com/joseph-kuncheria/AWS-Cloud-infrastructure/blob/main/README.md)
   - [Secure AWS resources using IAM user access policy](https://github.com/joseph-kuncheria/AWS-IAM-access/blob/main/README.md)
