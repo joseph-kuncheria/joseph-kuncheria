@@ -11,7 +11,7 @@ Self-driven and hands-on experience in cloud security through independently exec
   - 
   - 
   - 
-  
+  -
 - ### Amazon AWS <img src="image/AWS.png" alt="logo" style="height: 25px; width: 32px" />
   - [Monitor AWS secrets using Security Monitoring System](https://github.com/joseph-kuncheria/AWS-Security-alarm/blob/main/README.md)
   - [Build an AWS EC2 cloud infrastructure](https://github.com/joseph-kuncheria/AWS-Cloud-infrastructure/blob/main/README.md)
