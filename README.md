@@ -1,9 +1,10 @@
 # Hi, I'm <a href="https://www.linkedin.com/in/joseph-kuncheria/">Joseph</a>, welcome to my Cloud projects in GitHub 🎉
 
 ## 👨‍💻 Introduction:
-
 - <b>My Profile</b><br>
-Self-driven and hands-on experience in cloud security through independently executed projects on Microsoft Azure and Amazon Web Services (AWS). Demonstrated proficiency in securing cloud infrastructure, implementing identity and access management (IAM), configuring network security groups, and applying best practices for data protection and compliance. Projects include setting up secure VPC architectures, configuring Azure Security Center, and automating security logs analysis using native tools and scripts.
+Self-driven and hands-on experience in cloud security through independently executed projects on Microsoft Azure and Amazon Web Services (AWS).
+Demonstrated proficiency in securing cloud infrastructure, implementing identity and access management (IAM), configuring network security groups, applying best practices for data protection
+and compliance. Projects include setting up secure VPC architectures, configuring Azure Security Center, and automating security logs analysis using native tools and scripts.
 
 ## 🖥️ Cloud Security & Networking Projects:
 
