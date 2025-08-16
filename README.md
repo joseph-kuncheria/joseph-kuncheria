@@ -12,9 +12,9 @@ Self-driven and hands-on experience in cloud security through independently exec
   - 
   -
 - <b>Amazon AWS &nbsp;</b><img src="image/AWS.png" alt="logo" style="height: 25px; width: 32px" />
-  - [Secure AWS resources using IAM user access policy](https://github.com/joseph-kuncheria/AWS-IAM-access/blob/main/README.md)
+  - [Build an AWS EC2 cloud infrastructure](https://github.com/joseph-kuncheria/AWS-Cloud-infrastructure/blob/main/README.md)
   - [Monitor AWS secrets using Security Monitoring System](https://github.com/joseph-kuncheria/AWS-Security-alarm/blob/main/README.md)
-  - [Build an AWS cloud infrastructure](https://github.com/joseph-kuncheria/AWS-Cloud-infrastructure/blob/main/README.md)
+  - [Secure AWS resources using IAM user access policy](https://github.com/joseph-kuncheria/AWS-IAM-access/blob/main/README.md)
  
 <h2>📜 Certifications:</h2>
 - <a target="_blank" href="https://www.credly.com/badges/1fff8429-a598-45b3-970c-7fbd15d99f85/public_url" >Microsoft Certified: Azure Fundamentals</a>
