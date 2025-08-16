@@ -12,8 +12,8 @@ Self-driven and hands-on experience in cloud security through independently exec
   - 
   -
 - <b>Amazon AWS &nbsp;</b><img src="image/AWS.png" alt="logo" style="height: 25px; width: 32px" />
-  - [Secure AWS resources using IAM user access policy]([https://github.com/joseph-kuncheria/AWS-IAM-access](https://github.com/joseph-kuncheria/AWS-IAM-access/blob/main/README.md))
-  - [Monitor AWS screts using Security Monitoring System]([https://github.com/joseph-kuncheria/AWS-IAM-access](https://github.com/joseph-kuncheria/AWS-Security-alarm/edit/main/README.md))
+  - [Secure AWS resources using IAM user access policy](https://github.com/joseph-kuncheria/AWS-IAM-access/blob/main/README.md)
+  - [Monitor AWS screts using Security Monitoring System](https://github.com/joseph-kuncheria/AWS-Security-alarm/edit/main/README.md)
   - 
  
 <h2>📜 Certifications:</h2>
