@@ -11,7 +11,7 @@ and compliance. Projects include setting up secure VPC architectures, configurin
 - ### Microsoft Azure <img src="image/Azure.png" alt="logo" style="height: 18px; width: 18px" />
   - 
   - 
-  - 
+  - [Establish peering connection between the Virtual Machines](https://github.com/joseph-kuncheria/Azure-VNET-peering/blob/main/README.md)
   - [Azure Network infrastructure for the cloud](https://github.com/joseph-kuncheria/Azure-Network-infrastructure/blob/main/README.md)
 - ### Amazon AWS <img src="image/AWS.png" alt="logo" style="height: 20px; width: 27px" />
   - [Monitor AWS secrets using Security Monitoring System](https://github.com/joseph-kuncheria/AWS-Security-alarm/blob/main/README.md)
