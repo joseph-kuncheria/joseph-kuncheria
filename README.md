@@ -30,7 +30,7 @@ and compliance. Projects include setting up secure VPC architectures, configurin
 
 ## 📬 Connect with me:
 
-<p><a href="https://github.com/joseph-kuncheria/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" style="height: 32px; width: 18px alt="GitHub"/></a> 
+<p><a href="https://github.com/joseph-kuncheria/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" style="height: 28px; width: 18px alt="GitHub"/></a> 
   <a href="mailto:josephkuncheria7@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail--informational?style=social&logo=gmail" style="height: 28px; width: 18px   alt="Gmail"/></a> 
  <a href="https://www.linkedin.com/in/joseph-kuncheria/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
