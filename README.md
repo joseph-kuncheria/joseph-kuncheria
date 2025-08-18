@@ -9,7 +9,7 @@ and compliance. Projects include setting up secure VPC architectures, configurin
 ## 🖥️ Cloud Security & Networking Projects:
 
 - ### Microsoft Azure <img src="image/Azure.png" alt="logo" style="height: 18px; width: 18px" />
-  - 
+  - [Azure SOC live monitoring using Sentinel](https://github.com/joseph-kuncheria/Azure-SIEM-monitoring/blob/main/README.md)
   - 
   - [Establish peering connection between the Virtual Machines](https://github.com/joseph-kuncheria/Azure-VNET-peering/blob/main/README.md)
   - [Azure Network infrastructure for the cloud](https://github.com/joseph-kuncheria/Azure-Network-infrastructure/blob/main/README.md)
