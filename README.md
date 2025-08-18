@@ -16,7 +16,7 @@ and compliance. Projects include setting up secure VPC architectures, configurin
 - ### Amazon AWS <img src="image/AWS.png" alt="logo" style="height: 20px; width: 27px" />
   - [Monitor AWS secrets using Security Monitoring System](https://github.com/joseph-kuncheria/AWS-Security-alarm/blob/main/README.md)
   - [Build an AWS EC2 cloud infrastructure](https://github.com/joseph-kuncheria/AWS-Cloud-infrastructure/blob/main/README.md)
-  - [Secure AWS resources using IAM user access policy](https://github.com/joseph-kuncheria/AWS-IAM-access/blob/main/README.md)
+  - [Control AWS resources access using IAM user policy](https://github.com/joseph-kuncheria/AWS-IAM-access/blob/main/README.md)
  
 ## 📜 Certifications:
 &emsp;&emsp; ★ <a target="_blank" href="https://www.credly.com/badges/1fff8429-a598-45b3-970c-7fbd15d99f85/public_url" style="text-indent: 50px"> Microsoft Certified: Azure Fundamentals</a>
