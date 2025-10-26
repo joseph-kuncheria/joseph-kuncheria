@@ -20,7 +20,9 @@ and compliance. Projects include setting up secure VPC architectures, configurin
   - [Secure AWS resources access using IAM user policy](https://github.com/joseph-kuncheria/AWS-IAM-access/blob/main/README.md)
  
 ## 📜 Certifications:
-&emsp;&emsp; ★ <a target="_blank" href="https://www.credly.com/badges/1fff8429-a598-45b3-970c-7fbd15d99f85/public_url" style="text-indent: 50px"> Microsoft Certified: Azure Fundamentals</a>
+&emsp;&emsp; ★ <a target="_blank" href="https://learn.microsoft.com/api/credentials/share/en-us/JosephKuncheria/26BC20AE9C870E75?sharingId=8E30102356F94B25" style="text-indent: 50px"> Microsoft Certified: Azure Security Engineer Associate</a>
+<br>
+&emsp;&emsp; ★ <a target="_blank" href="https://learn.microsoft.com/api/credentials/share/en-us/JosephKuncheria/7DD7DBD85B7B1A7E?sharingId=8E30102356F94B25" style="text-indent: 50px"> Microsoft Certified: Azure Fundamentals</a>
 <br>
 &emsp;&emsp; ★ <a href="https://www.credly.com/badges/7388ed2b-a2c3-4b4f-9194-54b076656a62/public_url">AWS Certified Cloud Practitioner</a>
 <br>
